@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Why Game So Easy](https://discord.gg/KXQ2Z6W9Nz)
 
-- 📝 I regularly write articles on [craxpro.io, nulled.to, drcrypter.ru](craxpro.io, nulled.to, drcrypter.ru)
+- 📝 I regularly write articles on [craxpro.io, nulled.to, drcrypter.ru]
 
 - 📫 How to reach me **kevingxd2@gmail.com**
 
