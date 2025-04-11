@@ -1,9 +1,5 @@
 <h1 align="center">Hello 💞, I'm Kevin Sanchez</h1>
-<h3 align="center">A passionate frontend developer from WGSE</h3>
-
-- 🔭 I’m currently working on [Why Game So Easy](https://discord.gg/KXQ2Z6W9Nz)
-
-- 📝 I regularly write articles on [craxpro.io, nulled.to, drcrypter.ru]
+<h3 align="center">A passionate frontend developer from Xeon Thread</h3>
 
 - 📫 How to reach me **kevingxd2@gmail.com**
 
@@ -13,7 +9,7 @@
 <p align="left">
 <a href="https://twitter.com/sillybillyboi1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sillybillyboi1" height="30" width="40" /></a>
 <a href="https://fb.com/s4swaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="s4swaa" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/KXQ2Z6W9Nz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/KXQ2Z6W9Nz" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.gg/KXQ2Z6W9Nz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
